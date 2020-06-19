@@ -1,0 +1,6 @@
+.ant-form-item-label {
+    text-align: left;
+}
+.ant-form-item-label > label {
+    color: white;
+}
